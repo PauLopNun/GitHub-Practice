@@ -1,4 +1,4 @@
-// Add Java Code Here
+// Add Java Code Here, create new files.
 
 public class HelloWorld {
     public static void main(String[] args) {
